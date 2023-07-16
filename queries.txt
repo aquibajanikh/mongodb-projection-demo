@@ -1,0 +1,12 @@
+Queries:
+
+1. Find all employees with only their name and department displayed
+
+2. Find employees earning a salary greater than $60,000 with only their name and salary displayed
+
+3. Find employees with their name and age displayed, sorted by age in descending order
+
+4. Find employees who possess the skill "programming" with their name and department displayed
+
+5. Find employees with their name and the first skill in their skills array displayed
+
